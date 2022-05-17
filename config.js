@@ -51,15 +51,15 @@ global.APIs = { // API Prefix
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
   'https://melcanz.com': 'elaina',
-  'https://api.xteam.xyz': 'apikeymu',
+  'https://api.xteam.xyz': 'd90a9e986e18778b',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://bsbt-api-rest.herokuapp.com': 'benniismael',
   'https://api.zeks.xyz': 'apivinz',
   'https://hardianto-chan.herokuapp.com': 'hardianto',
   'https://pencarikode.xyz': 'pais', 
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
-  'https://zekais-api.herokuapp.com': 'apikeymu',
-  'https://api.lolhuman.xyz': 'apikey',
+  'https://zekais-api.herokuapp.com': 'G8jTyVzF',
+  'https://api.lolhuman.xyz': 'pkebgk8248jskrkfm',
 }
 //Kata apikey ubah jadi apikey lu dengan beli di website nya
 
